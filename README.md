@@ -1,2 +1,2 @@
 # kouhongyu.github.io
-ideadev
+troy.kou github 个人站点
